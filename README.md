@@ -1,4 +1,4 @@
-# My Rank of the semester is 14, and the Grade is A+.
+# My Rank of this semester is 14, and the Grade is A+.
 |  | Grade | Rank |
 | :----: | :----: | :----: |
 | LAB01 | 81 | 84 |
