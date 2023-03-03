@@ -13,5 +13,5 @@
 | LAB10 | 92 | 31 |
 | LAB11 | 93 | 51 |
 | LAB12 | 100 | 1 |
-| Midterm | 84 | 58 |
-| Final | 97 | 14 |
+| Midterm Project | 84 | 58 |
+| Final Project | 97 | 14 |
